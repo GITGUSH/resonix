@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Resonix.Application/Resonix.Application.csproj" />
+    <Project Path="src/Resonix.Desktop/Resonix.Desktop.csproj" />
+    <Project Path="src/Resonix.Domain/Resonix.Domain.csproj" />
+    <Project Path="src/Resonix.Infrastructure/Resonix.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Resonix.IntegrationTests/Resonix.IntegrationTests.csproj" />
+    <Project Path="tests/Resonix.UnitTests/Resonix.UnitTests.csproj" />
+  </Folder>
+</Solution>
