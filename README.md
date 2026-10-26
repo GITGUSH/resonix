@@ -1,13 +1,13 @@
 # Resonix
 
-Player de música para Windows com ferramentas de estudo musical: alteração de velocidade e afinação, loop de trechos, marcadores e equalização.
+A music player for Windows with music practice tools, including speed and pitch adjustment, section looping, markers, and equalization.
 
-**Status:** em desenvolvimento (Fase 0 — planejamento e configuração). Ainda não há versão utilizável.
+**Status:** In development (Phase 0 — planning and setup). No usable version is available yet.
 
-## Stack
+## Tech Stack
 
 C# · .NET 10 · Avalonia UI · SQLite
 
-## Licença
+## License
 
-Distribuído sob a [GPL-3.0](LICENSE).
+Distributed under the [GPL-3.0](LICENSE) license.
